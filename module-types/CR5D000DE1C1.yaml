@@ -1,0 +1,117 @@
+manufacturer: Huawei
+model: CR5D000DE1C1
+part_number: 03033GGD
+comments: ''
+interfaces:
+- name: controller E1 0/{module}/0
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/1
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/2
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/3
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/4
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/5
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/6
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/7
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/8
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/9
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/10
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/11
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/12
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/13
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/14
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: controller E1 0/{module}/15
+  type: e1
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''

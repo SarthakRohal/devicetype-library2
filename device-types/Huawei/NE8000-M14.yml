@@ -1,0 +1,99 @@
+---
+manufacturer: Huawei
+model: NE8000-M14
+slug: ne8000-m14
+part_number: 02353TBH
+u_height: 5.0
+is_full_depth: true
+subdevice_role: ''
+airflow: ''
+comments: ''
+console-ports:
+- name: Console
+  type: rj-45
+  label: ''
+  description: ''
+power-ports:
+- name: Input
+  type: iec-60320-c14
+  maximum_draw: null
+  allocated_draw: null
+  label: ''
+  description: ''
+module-bays:
+- name: slot1
+  label: ''
+  position: '1'
+  description: 16-port E1 physical interface card
+- name: slot2
+  label: ''
+  position: '2'
+  description: 16-port E1 physical interface card
+- name: slot3
+  label: ''
+  position: '3'
+  description: 16-port E1 physical interface card
+- name: slot4
+  label: ''
+  position: '4'
+  description: 16-port E1 physical interface card
+- name: slot5
+  label: ''
+  position: '5'
+  description: 16-port E1 physical interface card
+- name: slot6
+  label: ''
+  position: '6'
+  description: PIC
+- name: slot7
+  label: ''
+  position: '7'
+  description: 10-Port 10GE/GE LAN/WAN-SFP+
+- name: slot8
+  label: ''
+  position: '8'
+  description: PIC
+- name: slot9
+  label: ''
+  position: '9'
+  description: PIC
+- name: slot10
+  label: ''
+  position: '10'
+  description: PIC
+- name: slot11
+  label: ''
+  position: '11'
+  description: 2-Port 100GBase/50GBase-QSFP-28
+- name: slot12
+  label: ''
+  position: '12'
+  description: 2-Port 100GBase/50GBase-QSFP-28
+- name: slot13
+  label: ''
+  position: '13'
+  description: PIC
+- name: slot14
+  label: ''
+  position: '14'
+  description: PIC
+- name: slot15
+  label: ''
+  position: '15'
+  description: IPU-1T2-A
+- name: slot16
+  label: ''
+  position: '16'
+  description: IPU-1T2-A
+- name: slot17
+  label: ''
+  position: '17'
+  description: PIU
+- name: slot18
+  label: ''
+  position: '18'
+  description: PIU
+- name: slot19
+  label: ''
+  position: '19'
+  description: FAN

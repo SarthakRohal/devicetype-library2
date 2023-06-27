@@ -1,0 +1,94 @@
+---
+manufacturer: Huawei
+model: S12700E-4
+slug: s12700e-4
+part_number: 02115869
+u_height: 10.0
+is_full_depth: true
+subdevice_role: ''
+airflow: ''
+comments: '[https://www.router-switch.com/media/upload/product-pdf/huawei-s12700-series-switches-datasheet.pdf)'
+power-ports:
+- name: PSU1
+  type: iec-60320-c14
+  maximum_draw: 3000
+  allocated_draw: null
+  label: ''
+  description: ''
+- name: PSU2
+  type: iec-60320-c14
+  maximum_draw: 3000
+  allocated_draw: null
+  label: ''
+  description: ''
+interfaces:
+- name: LoopBack0
+  type: virtual
+  mgmt_only: true
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: LoopBack1
+  type: virtual
+  mgmt_only: true
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: LoopBack100
+  type: virtual
+  mgmt_only: true
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+module-bays:
+- name: CMU 1
+  label: CMU
+  position: '9'
+  description: Centralized Monitoring Unit
+- name: CMU 2
+  label: CMU
+  position: '10'
+  description: Centralized Monitoring Unit
+- name: FAN 1
+  label: FAN
+  position: '11'
+  description: Fan Unit
+- name: FAN 2
+  label: FAN
+  position: '12'
+  description: Fan Unit
+- name: SLOT 1
+  label: LPU
+  position: '1'
+  description: Interface Card
+- name: SLOT 2
+  label: LPU
+  position: '2'
+  description: Interface Card
+- name: SLOT 3
+  label: LPU
+  position: '3'
+  description: Interface Card
+- name: SLOT 4
+  label: LPU
+  position: '4'
+  description: Interface Card
+- name: SLOT 5
+  label: MPU 1
+  position: '5'
+  description: Main Processing Unit
+- name: SLOT 6
+  label: MPU 2
+  position: '6'
+  description: Main Processing Unit
+- name: SLOT 7
+  label: SFU 1
+  position: '7'
+  description: Switch Fabric Unit
+- name: SLOT 8
+  label: SFU 2
+  position: '8'
+  description: Switch Fabric Unit

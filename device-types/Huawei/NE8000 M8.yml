@@ -1,0 +1,64 @@
+---
+manufacturer: Huawei
+model: NE8000 M8
+slug: huawei_ne-8000-m8
+part_number: 02354NTU
+u_height: 3.0
+is_full_depth: true
+subdevice_role: ''
+airflow: ''
+comments: ''
+power-ports:
+- name: PSU1
+  type: iec-60320-c14
+  maximum_draw: 485
+  allocated_draw: null
+  label: ''
+  description: ''
+- name: PSU2
+  type: iec-60320-c14
+  maximum_draw: 485
+  allocated_draw: null
+  label: ''
+  description: ''
+module-bays:
+- name: Slot 1
+  label: ''
+  position: '0'
+  description: PIU
+- name: Slot 2
+  label: ''
+  position: '1'
+  description: PIC
+- name: Slot 3
+  label: ''
+  position: '2'
+  description: PIU
+- name: Slot 4
+  label: ''
+  position: '3'
+  description: PIC
+- name: Slot 5
+  label: ''
+  position: '4'
+  description: 2-Port 10GBase/50GBase-QSFP28
+- name: Slot 6
+  label: ''
+  position: '5'
+  description: 2-Port 10GBase/50GBase-QSFP28
+- name: Slot 7
+  label: ''
+  position: '6'
+  description: 10-Port 10GE/ GE LAN/ WAN-SFP+
+- name: Slot 8
+  label: ''
+  position: '7'
+  description: PIC
+- name: Slot 9
+  label: ''
+  position: '8'
+  description: IPU-1T2
+- name: Slot 10
+  label: ''
+  position: '9'
+  description: IPU-1T2

@@ -1,0 +1,19 @@
+manufacturer: Huawei
+model: CR8D00E2XFC0
+part_number: 03033JUD
+comments: '[https://support.huawei.com/enterprise/en/doc/EDOC1100089142/f944cf24/lst7c06hx6s0-03033dge-03033dge-001-03033dge-002-6-port-100ge-qsfp28-interface-card-x6s-qsfp28)'
+interfaces:
+- name: GigabitEthernet0/{module}/0
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: GigabitEthernet0/{module}/1
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''

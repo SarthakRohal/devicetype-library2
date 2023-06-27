@@ -1,0 +1,9 @@
+manufacturer: Huawei
+model: LST7SFUEX100
+part_number: 03033EMG
+comments: ''
+console-ports:
+- name: console0/{module}
+  type: rj-45
+  label: ''
+  description: ''

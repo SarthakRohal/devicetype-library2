@@ -1,0 +1,9 @@
+manufacturer: Huawei
+model: LST7MPUEC000
+part_number: 03034HXL
+comments: ''
+console-ports:
+- name: console/{module}
+  type: rj-45
+  label: ''
+  description: ''

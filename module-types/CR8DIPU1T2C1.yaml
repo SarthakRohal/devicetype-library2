@@ -1,0 +1,26 @@
+manufacturer: Huawei
+model: CR8DIPU1T2C1
+part_number: 03033FXD
+comments: ''
+interfaces:
+- name: CLK/TOD/RJ-485/{module}
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: ALMI/ALMO/{module}
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: ETH/OAM/{module}
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''

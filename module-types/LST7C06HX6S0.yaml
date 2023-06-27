@@ -1,0 +1,47 @@
+manufacturer: Huawei
+model: LST7C06HX6S0
+part_number: 03033DGE
+comments: '[https://support.huawei.com/enterprise/en/doc/EDOC1100089142/f944cf24/lst7c06hx6s0-03033dge-03033dge-001-03033dge-002-6-port-100ge-qsfp28-interface-card-x6s-qsfp28)'
+interfaces:
+- name: 100GE1/{module}/0/1
+  type: 100gbase-x-qsfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: 100GE1/{module}/0/2
+  type: 100gbase-x-qsfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: 100GE1/{module}/0/3
+  type: 100gbase-x-qsfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: 100GE1/{module}/0/4
+  type: 100gbase-x-qsfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: 100GE1/{module}/0/5
+  type: 100gbase-x-qsfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: 100GE1/{module}/0/6
+  type: 100gbase-x-qsfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''

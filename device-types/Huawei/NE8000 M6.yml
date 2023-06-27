@@ -1,0 +1,56 @@
+---
+manufacturer: Huawei
+model: NE8000 M6
+slug: ne8000-m6
+part_number: CR8PM8BASACH
+u_height: 3.0
+is_full_depth: true
+subdevice_role: parent
+airflow: ''
+comments: https://www.alibaba.com/product-detail/Huawei-Router-NE8000-M8-NetEngine-8000_1600213829929.html
+power-ports:
+- name: PSU1
+  type: iec-60320-c14
+  maximum_draw: 6000
+  allocated_draw: null
+  label: ''
+  description: ''
+- name: PSU2
+  type: iec-60320-c14
+  maximum_draw: 6000
+  allocated_draw: null
+  label: ''
+  description: ''
+module-bays:
+- name: SLOT 1
+  label: PIU1
+  position: '1'
+  description: power input unit 1
+- name: SLOT 2
+  label: PIC
+  position: '2'
+  description: ''
+- name: SLOT 3
+  label: PIU2
+  position: '3'
+  description: power input unit 2
+- name: SLOT 4
+  label: PIC
+  position: '4'
+  description: ''
+- name: SLOT 5
+  label: 2-port 10GE(SFP+)/GE(SFP)
+  position: '5'
+  description: 2-port 10GE(SFP+)/GE(SFP)
+- name: SLOT 6
+  label: PIC
+  position: '6'
+  description: ''
+- name: SLOT 7
+  label: CXP-160
+  position: '7'
+  description: CXP-160 (Cross-connect and Multi-protocol Process Unit )
+- name: SLOT 8
+  label: CXP-160
+  position: '8'
+  description: CXP-160 (Cross-connect and Multi-protocol Process Unit )

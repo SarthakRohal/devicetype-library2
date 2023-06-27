@@ -1,0 +1,19 @@
+manufacturer: Huawei
+model: CR8DE1NE2VC1
+part_number: 03033VMC
+comments: ''
+interfaces:
+- name: 100GE0/{module}/0
+  type: 100gbase-x-qsfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: 100GE0/{module}/1
+  type: 100gbase-x-qsfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
