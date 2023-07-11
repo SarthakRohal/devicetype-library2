@@ -21,6 +21,21 @@ power-ports:
   allocated_draw: null
   label: ''
   description: ''
+interfaces:
+- name: LoopBack0
+  type: virtual
+  mgmt_only: true
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: LoopBack1
+  type: virtual
+  mgmt_only: true
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
 module-bays:
 - name: Slot 1
   label: ''
