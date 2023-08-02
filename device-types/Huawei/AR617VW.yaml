@@ -1,0 +1,28 @@
+---
+manufacturer: Huawei
+model: AR617VW
+slug: ar617vw
+part_number: 50010480
+u_height: 1
+is_full_depth: false
+console-ports:
+  - name: Console
+    type: rj-45   
+power-ports:
+  - name: PSU1
+    type: 12V/2A
+interfaces:
+  - name: GE0
+    type: 1000base-t 
+    mgmt_only: true 
+  - name: GE1
+    type: 1000base-t  
+  - name: GE2
+    type: 1000base-t 
+  - name: GE3
+    type: 1000base-t
+  - name: GE4/ETH
+    type: 1000base-t
+  - name: GE4/SFP
+    type: 1000base-x-sfp
+  

@@ -1,0 +1,48 @@
+---
+    manufacturer: Huawei
+    model: AR6140E-9G-2AC
+    slug: ar6140e-9g-2ac
+    part_number: 02353UYT
+    u_height: 1.0
+    is_full_depth: false
+    comments: 'AR6140E-9G-2ACAC host, 5*GE RJ45, 4*GE SFP, 1*USB 3.0, 4*SIC'
+    console-ports:
+      - name: Console
+        type: rj-45
+    power-ports:
+      - name: PSU1
+        type: iec-60320-c14
+      - name: PSU2
+        type: iec-60320-c14
+    module-bays:
+      - name: Slot 1
+        position: 0
+        description: SIC
+      - name: Slot 2
+        position: 1
+        description: SIC
+      - name: Slot 3
+        position: 2
+        description: SIC
+      - name: Slot 4
+        position: 3
+        description: SIC
+    interfaces:
+      - name: GE0
+        type: 1000base-t
+      - name: GE1
+        type: 1000base-t
+      - name: GE2/SFP
+        type: 1000base-x-sfp
+      - name: GE3/SFP
+        type: 1000base-x-sfp
+      - name: GE4
+        type: 1000base-t
+      - name: GE5
+        type: 1000base-t
+      - name: GE6
+        type: 1000base-t
+      - name: GE7/SFP
+        type: 1000base-x-sfp
+      - name: GE8/SFP
+        type: 1000base-x-sfp

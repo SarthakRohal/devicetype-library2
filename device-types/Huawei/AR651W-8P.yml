@@ -1,0 +1,40 @@
+---
+    manufacturer: Huawei
+    model: AR651W-8P
+    slug: ar651w-8p
+    part_number: 50010492
+    u_height: 1.0
+    is_full_depth: false
+    comments: 'AR651W-8P,2*GE combo WAN,8*GE LAN (PoE+),1*USB2.0,802.11b/g/n/ac,2*2MIMO,1*MIC slot'
+    console-ports:
+      - name: Console
+        type: rj-45
+    power-ports:
+      - name: PSU1
+        type: 12V/5A
+    interfaces:
+      - name: GE0
+        type: 1000base-t
+        mgmt_only: true
+      - name: GE1
+        type: 1000base-t
+      - name: GE2
+        type: 1000base-t
+      - name: GE3
+        type: 1000base-t
+      - name: GE4
+        type: 1000base-t
+      - name: GE5
+        type: 1000base-t
+      - name: GE6
+        type: 1000base-t
+      - name: GE7
+        type: 1000base-t
+      - name: GE8/ETH
+        type: 1000base-t
+      - name: GE9/ETH
+        type: 1000base-t
+      - name: GE8/SFP
+        type: 1000base-x-sfp
+      - name: GE9/SFP
+        type: 1000base-x-sfp
